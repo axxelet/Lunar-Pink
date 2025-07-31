@@ -4,16 +4,12 @@
 
 <details>
   <br/>
-  <summary>Chat</summary>
+  <summary>PC</summary>
   <img src="images/chat.png" alt="Mobile preview" width="80%"/>
-</details>
-<details>
- <br/>
-  <summary>Settings</summary>
   <img src = "images/settings.png" alt="Mobile preview" width="80%"/>
 </details>
 <details>
-  <summary>Mobile Version</summary>
+  <summary>Mobile</summary>
   <br/>
   <img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
 </details>
