@@ -6,7 +6,7 @@
 
 | **Mobile Version** |
 | --------------------------------------
-| ![](assets/mobilepreview.png)        |
+| ![](assets/mobilepreview.jpg)        |
 
 
 # 🔧 Install
