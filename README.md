@@ -1,9 +1,22 @@
 <h1 align="center">🌸 Mauve</h1>
 
-| **Chat Area** | **Settings**    |
-| ------------------------------------------------------------------------------------- | ---------------------- |
-| ![](images/chat.png)                                                              | ![](images/settings.png) |
+## Previews
 
+<details>
+  <br/>
+  <summary>Chat</summary>
+  <img src="images/chat.png" alt="Mobile preview" width="80%"/>
+</details>
+<details>
+ <br/>
+  <summary>Settings</summary>
+  <img src = "images/settings.png" alt="Mobile preview" width="80%"/>
+</details>
+<details>
+  <summary>Mobile Version</summary>
+  <br/>
+  <img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
+</details>
 
 # 🔧 Install
 
