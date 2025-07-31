@@ -16,3 +16,9 @@
 ## Install through link
 
 Add `https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveDesktop.css` to your theme import links.
+
+## Mobile (Revenge)
+
+1.	Open Revenge.
+2.	Go to Settings → Themes.
+3.	Paste this link: `https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile`
