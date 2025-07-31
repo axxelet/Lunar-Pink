@@ -2,11 +2,11 @@
 
 | **Chat Area** | **Settings**    |
 | ------------------------------------------------------------------------------------- | ---------------------- |
-| ![](assets/chat.png)                                                              | ![](assets/settings.png) |
+| ![](images/chat.png)                                                              | ![](images/settings.png) |
 
 | **Mobile Version** |
 | --------------------------------------
-| ![](assets/mobilepreview.jpg)        |
+| ![](images/mobile.jpg)        |
 
 
 # 🔧 Install
