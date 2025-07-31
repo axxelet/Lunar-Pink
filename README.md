@@ -1,9 +1,13 @@
 <h1 align="center">🌸 Mauve</h1>
 
-<div align="center">
-  <img src="assets/preview.png" alt="VSCode" width="49%"/>
-  <img src="assets/preview2.png" alt="Startpage" width="49%"/>
-</div>
+| **Chat Area** | **Settings**    |
+| ------------------------------------------------------------------------------------- | ---------------------- |
+| ![](assets/preview.png)                                                              | ![](assets/preview2.png) |
+
+| **Mobile Version** |
+| --------------------------------------
+| ![](assets/mobilepreview.png)        |
+
 
 # 🔧 Install
 
