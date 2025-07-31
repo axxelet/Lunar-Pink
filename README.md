@@ -1,11 +1,8 @@
 <h1 align="center">🌸 Mauve</h1>
 
 <div align="center">
-  <img src="assets/preview.png" alt="A preview of the theme" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="assets/preview2.png" alt="another one" width="100%"/>
+  <img src="assets/preview.png" alt="VSCode" width="49%"/>
+  <img src="assets/preview2.png" alt="Startpage" width="49%"/>
 </div>
 
 # 🔧 Install
