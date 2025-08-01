@@ -1,27 +1,24 @@
-<h1 align="center">🌸 Mauve</h1>
+<h1 align="center">🌸 Mauve Discord Theme</h1
+
+Vencord link
+```
+https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveDesktop.css
+```
+Revenge/Bunny link
+```
+https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
+```
 
 ## Previews
 
-<details>
-  <br/>
-  <summary>PC</summary>
-  <img src="images/chat.png" alt="Mobile preview" width="80%"/>
-  <img src = "images/settings.png" alt="Mobile preview" width="80%"/>
-</details>
-<details>
-  <summary>Mobile</summary>
-  <br/>
-  <img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
-</details>
+#### Main chat area
 
-# 🔧 Install
+<img src="images/chat.png" alt="Mobile preview" width="80%"/>
 
-## Vencord
+#### User settings
 
-Add `https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveDesktop.css` to your theme import links.
+<img src = "images/settings.png" alt="Mobile preview" width="80%"/>
 
-## Revenge/Bunny
+#### Mobile Version
 
-1.	Open Revenge.
-2.	Go to Settings → Themes.
-3.	Paste this link: `https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile`
+<img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
