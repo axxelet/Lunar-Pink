@@ -20,5 +20,5 @@ https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
 <details>
   <br/>
   <summary>Mobile</summary>
-  <img src = "images/mob.jpg" width="20%"/>
+  <img src = "images/mob.jpg" width="40%"/>
 </details>
