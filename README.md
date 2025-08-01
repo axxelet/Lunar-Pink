@@ -11,19 +11,14 @@ https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
 
 ## Previews
 
-#### Main chat area
-
-<img src="images/chat.png" alt="Mobile preview" width="80%"/>
-
-#### User settings
-
-<img src = "images/settings.png" alt="Mobile preview" width="80%"/>
-
-#### Mobile Version
-
-> [!Note]
-> The custom icons and the font do NOT come with the theme. You will have to install them separately
-
-<div align="center">
-<img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
-</div>
+<details>
+  <br/>
+  <summary>PC</summary>
+  <img src="images/chat.png"/>
+  <img src="images/settings.png"/>
+</details>
+<details>
+  <br/>
+  <summary>Mobile</summary>
+  <img src = "images/mob.jpg" width="20%"/>
+</details>
