@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
 
 #### Mobile Version
 
+> [!Note]
+> The custom icons and the font do NOT come with the theme. You will have to install them separately
+
 <div align="center">
 <img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
 </div>
