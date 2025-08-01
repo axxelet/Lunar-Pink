@@ -21,4 +21,6 @@ https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
 
 #### Mobile Version
 
+<div align="center">
 <img src = "images/mob.jpg" alt="Mobile preview" width="30%"/>
+</div>
