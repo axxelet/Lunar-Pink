@@ -2,11 +2,11 @@
 
 Vencord link
 ```
-https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveDesktop.css
+https://raw.githubusercontent.com/axxelet/Lunar-Pink/refs/heads/main/assets/LunarPinkDesktop.css
 ```
 Revenge/Bunny link
 ```
-https://raw.githubusercontent.com/axxelet/Mauve/refs/heads/main/MauveMobile
+https://raw.githubusercontent.com/axxelet/Lunar-Pink/refs/heads/main/assets/LunarPinkMobile
 ```
 
 ## Previews
