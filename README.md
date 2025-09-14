@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Mauve Discord Theme</h1
+<h1 align="center">🌸 Lunar Pink Discord Theme</h1
 
 Vencord link
 ```
